@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @lhickk17
-- 👀 I’m interested in Back-end development
-- 🌱 I’m currently learning: HTML, JavaScript, Python
-
-<!---
-lhickk17/lhickk17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Fala, eu sou o Luiz Henrique 👋</h1> <p align="center"> Estudante de Análise e Desenvolvimento de Sistemas · Recife, PE 🇧🇷<br> Focado em <b>Full-stack</b> e <b>Dados</b> </p> <p align="center"> <a href="https://www.linkedin.com/in/luiz-henrique-298b4326b" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="https://github.com/lhickk17" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> </p>
+🧰 Stack
+<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,linux&theme=dark" alt="Stack" /> </a> </p>
+🌱 Estudando agora
+<p> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"> </p>
+🚀 Projetos em destaque
+🎮 Papers-Please_quiz — quiz interativo em JavaScript
+📈 Estatísticas
+<p align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=lhickk17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhickk17&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens" /> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=lhickk17&style=flat-square&color=blue" alt="Visitas" /> </p>
