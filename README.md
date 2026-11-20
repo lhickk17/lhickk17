@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/lhickk17">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=EEstudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Full-stack+e+Dados;Recife%2C+PE+%F0%9F%87%A7%F0%9F%87%B7" alt="Apresentação" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack+e+Dados;Recife%2C+PE+%F0%9F%87%A7%F0%9F%87%B7" alt="Apresentação" />
   </a>
 </p>
 
