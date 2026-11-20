@@ -1,15 +1,12 @@
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=140&section=header" width="100%" alt="" />
 
 <h1 align="center">Fala, Me chamo Luiz Henrique 👋</h1>
 
 <p align="center">
   <a href="https://github.com/lhickk17">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack;Dados;Recife%2C+PE+%F0%9F%87%A7%F0%9F%87%B7" alt="Full-stack, Dados, Recife" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Full-stack;Dados;Recife%2C+PE+%F0%9F%87%A7%F0%9F%87%B7" alt="Full-stack e Dados, Recife" />
   </a>
-</p>
-
-<p align="center">
-  Full-stack e dados.
 </p>
 
 <p align="center">
@@ -25,20 +22,11 @@
 
 ---
 
-<h2 align="center">Stack</h2>
-
-<!-- Nova tecnologia: adiciona no texto, separada por " · " -->
-<p align="center">
-  HTML · CSS · JavaScript · Python<br><br>
-  <img src="https://skillicons.dev/icons?i=linux&theme=dark" height="32" alt="Linux" /><br>
-  <sub>uso Linux</sub>
-</p>
-
 <h2 align="center">Projetos</h2>
 
 <!-- Novo projeto: copia uma linha e troca nome, link e descrição. -->
 <p align="center">
-  <a href="https://github.com/lhickk17/Papers-Please_quiz"><b>Papers-Please_quiz</b></a> — quiz interativo de Papers, Please<br>
+  <a href="https://github.com/lhickk17/Papers-Please_quiz"><b>Papers-Please_quiz</b></a> — T.G.I.F - Papers, Please<br>
 </p>
 
 <h2 align="center">Estatísticas</h2>
